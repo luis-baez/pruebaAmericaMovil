@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba America Movil</string>
+    <string name="description_movie_dummy">Description the movie</string>
+    <string name="popularity_dummy">popularity</string>
+    <string name="date_dummy">23/12/2020</string>
+    <string name="title_dummy">Title test movie</string>
+</resources>
